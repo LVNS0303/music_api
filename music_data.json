@@ -1,0 +1,69 @@
+{
+    "m1": {
+        "id": "1",
+        "nome": "Oração - A Banda Mais Bonita da Cidade",
+        "musica": "/static/audio_files/A_Banda_Mais_Bonita_da_Cidade-Oração.mp3",
+        "capa": "/static/assets/A_Banda_Mais_Bonita_da_Cidade-Oração.jpeg"
+    },
+    "m2": {
+        "id": "2",
+        "nome": "Gunslinger - Avenged Sevenfold",
+        "musica": "/static/audio_files/Avenged_Sevenfold-Gunslinger.mp3",
+        "capa": "/static/assets/Avenged_Sevenfold-Gunslinger.png"
+    },
+    "m3": {
+        "id": "3",
+        "nome": "Meu Novo Mundo - Charlie Brown Jr.",
+        "musica": "/static/audio_files/Charlie_Brown_Jr-Meu_Novo_Mundo.mp3",
+        "capa": "/static/assets/Charlie_Brown_Jr-Meu_Novo_Mundo.jpg"
+    },
+    "m4": {
+        "id": "4",
+        "nome": "Só os Loucos Sabem - Charlie Brown Jr.",
+        "musica": "/static/audio_files/Charlie_Brown_Jr-Só_os_Loucos_Sabem.mp3",
+        "capa": "/static/assets/Charlie_Brown_Jr-Só_Os_Loucos_Sabem.jpeg"
+    },
+    "m5": {
+        "id": "5",
+        "nome": "Auê (A Fé Ganhou) - Marco Telles",
+        "musica": "/static/audio_files/Marco_Telles-Auê_(a_Fé_Ganhou).mp3",
+        "capa": "/static/assets/Marco_Telles-Auê_(a_Fé_Ganhou).jpg"
+    },
+    "m6": {
+        "id": "6",
+        "nome": "O Convite - Marco Telles",
+        "musica": "/static/audio_files/Marco_Telles-O_Convite.mp3",
+        "capa": "/static/assets/Marco_Telles-O_Convite.jpg"
+    },
+    "m7": {
+        "id": "7",
+        "nome": "Continuar - Oficina G3",
+        "musica": "/static/audio_files/Oficina_G3-Continuar.mp3",
+        "capa": "/static/assets/Oficina_G3-Continuar.jpg"
+    },
+    "m8": {
+        "id": "8",
+        "nome": "Incondicional - Oficina G3",
+        "musica": "/static/audio_files/Oficina_G3-Incondicional.mp3",
+        "capa": "/static/assets/Oficina_G3-Incondicional.jpg"
+    },
+    "m9": {
+        "id": "9",
+        "nome": "Spektrem - Shine",
+        "musica": "/static/audio_files/Spektrem-Shine.mp3",
+        "capa": "/static/assets/Spektrem-Shine.jpeg"
+    },
+    "m10": {
+        "id": "10",
+        "nome": "O Velho e a Flor - Toquinho e Vinicius de Moraes",
+        "musica": "/static/audio_files/Toquinho,_Vinicius_de_Moraes-O_Velho_e_A_Flor.mp3",
+        "capa": "/static/assets/Toquinho,_Vinicius_de_Moraes-O_Velho_e_A_Flor.jpeg"
+    },
+    "m11": {
+        "id": "11",
+        "nome": "Tribalistas - Velha Infância",
+        "musica": "/static/audio_files/Tribalistas-Velha_Infância.mp3",
+        "capa": "/static/assets/Tribalistas-Velha_Infância.jpeg"
+    }
+
+} 
